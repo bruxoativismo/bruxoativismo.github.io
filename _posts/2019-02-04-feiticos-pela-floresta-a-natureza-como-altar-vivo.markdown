@@ -5,7 +5,7 @@ categories: [Ecologia]
 image: assets/images/demo1.jpg
 ---
 
-A bruxaria, desde suas raízes ancestrais, carrega uma profunda ligação com os ciclos da natureza, os elementos e os seres vivos. Ela não é apenas um conjunto de práticas místicas, mas uma forma de viver e perceber o mundo de maneira integrada e respeitosa com o planeta. Quando falamos em ecologia e bruxaria, estamos nos referindo a uma aliança entre espiritualidade e ação concreta pela preservação da vida.
+A bruxaria, desde suas raízes ancestrais, carrega uma profunda ligação com os ciclos da natureza, os elementos e os seres vivos. Ela não é apenas um conjunto de práticas místicas, mas uma forma de viver e perceber o mundo de maneira integrada e respeitosa com o planeta. Quando falamos em ecologia e bruxaria, estamos nos referindo a uma aliança entre espiritualidade e ação concreta pela preservação.
 
 A ecologia nos ensina que tudo está interligado: o ar que respiramos, a água que bebemos, os alimentos que colhemos. Já a bruxaria nos convida a celebrar essas interconexões por meio de rituais, oferendas simbólicas e o respeito pelos ciclos naturais. Ambas compartilham uma ética do cuidado — com a Terra, com os outros seres e com o corpo.
 
